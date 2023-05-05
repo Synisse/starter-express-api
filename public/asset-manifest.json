@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e79bef9c.css",
+    "main.js": "/static/js/main.b53830fd.js",
+    "static/js/787.70885c80.chunk.js": "/static/js/787.70885c80.chunk.js",
+    "static/media/espresso.jpg": "/static/media/espresso.6b35e175926ebc5ab49d.jpg",
+    "static/media/coffee.jpg": "/static/media/coffee.7bce9edadeae066350f4.jpg",
+    "static/media/230317_OUT_Additional_Coffeebeans__0001-0024.webm": "/static/media/230317_OUT_Additional_Coffeebeans__0001-0024.8d044e3f18152c08b81f.webm",
+    "static/media/230317_TURN_Coffeebean_0001-0048.webm": "/static/media/230317_TURN_Coffeebean_0001-0048.ff01f227aaba8d93a65f.webm",
+    "static/media/230505_IN_Latte Macchiatto_CARAMEL_0001-0024.webm": "/static/media/230505_IN_Latte Macchiatto_CARAMEL_0001-0024.9d459fe2c0dc7b0a29d2.webm",
+    "static/media/230505_IN_Latte Macchiatto_0001-0024.webm": "/static/media/230505_IN_Latte Macchiatto_0001-0024.f4e83569f3c39d09b22a.webm",
+    "static/media/230317_IN_CoffeeCup__0001-0024.webm": "/static/media/230317_IN_CoffeeCup__0001-0024.620202909ba2075581dd.webm",
+    "static/media/230317_OUT_Coffeebean__0001-0024.webm": "/static/media/230317_OUT_Coffeebean__0001-0024.8519e7407ba079b276af.webm",
+    "static/media/230505_IN_EspressoShot_0001-0024.webm": "/static/media/230505_IN_EspressoShot_0001-0024.18dc91dfac881ff96256.webm",
+    "static/media/230319_ADDITIONAL_Coffebeans__0001-0024.webm": "/static/media/230319_ADDITIONAL_Coffebeans__0001-0024.cd70e8300049fb837fa8.webm",
+    "static/media/gill-sans-nova_semibold.otf": "/static/media/gill-sans-nova_semibold.16509e31132fbeb48a68.otf",
+    "static/media/gill-sans-nova_book.otf": "/static/media/gill-sans-nova_book.25e5a2561960ceed5f82.otf",
+    "static/media/cinnamon.jpg": "/static/media/cinnamon.ea033c8f596ca24da0b5.jpg",
+    "static/media/coffee-only.png": "/static/media/coffee-only.4d19ed350a68c1da9f4e.png",
+    "static/media/vanilla.webp": "/static/media/vanilla.19b61e71f240d4738961.webp",
+    "static/media/icon-coffee-strength-3.svg": "/static/media/icon-coffee-strength-3.cc6277d02a21785a26a3d0ab51e293bb.svg",
+    "static/media/icon-coffee-strength-2.svg": "/static/media/icon-coffee-strength-2.74e7298d6b7614592d1642392bf20ea4.svg",
+    "index.html": "/index.html",
+    "static/media/icon-coffee-strength-1.svg": "/static/media/icon-coffee-strength-1.bdecb430f2872da9ac8e6965e547d5d9.svg",
+    "main.e79bef9c.css.map": "/static/css/main.e79bef9c.css.map",
+    "main.b53830fd.js.map": "/static/js/main.b53830fd.js.map",
+    "787.70885c80.chunk.js.map": "/static/js/787.70885c80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79bef9c.css",
+    "static/js/main.b53830fd.js"
+  ]
+}
